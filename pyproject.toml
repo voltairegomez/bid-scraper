@@ -1,0 +1,24 @@
+[project]
+name = "bid-scraper"
+version = "0.1.0"
+description = "Starter bid scraping framework (Playwright + SQLite)"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+  "playwright>=1.48.0",
+  "httpx>=0.27.0",
+  "selectolax>=0.3.25",
+  "typer>=0.12.5",
+  "pydantic>=2.8.2",
+  "python-dotenv>=1.0.1",
+]
+
+[project.scripts]
+bid-scraper = "bid_scraper.cli:app"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
