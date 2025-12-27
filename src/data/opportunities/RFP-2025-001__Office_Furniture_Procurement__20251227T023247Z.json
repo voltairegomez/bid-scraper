@@ -1,0 +1,28 @@
+{
+  "issuing_agency": "City of Sampleville",
+  "project_title": "Office Furniture Procurement",
+  "solicitation_number": "RFP-2025-001",
+  "solicitation_type": "RFP",
+  "due_date_local": "2025-01-30T14:00:00-08:00",
+  "timezone": "America/Los_Angeles",
+  "submission_method": "Online via PlanetBids portal",
+  "mandatory_events": [],
+  "addenda": [],
+  "required_documents": [],
+  "forms": [],
+  "insurance_bonding": "",
+  "scope_summary": "Procurement of ergonomic office furniture and installation.",
+  "product_categories": [],
+  "delivery_installation": "",
+  "contacts": [],
+  "submission_portal_links": [],
+  "questions_due": "",
+  "budget_or_estimate": "",
+  "prevailing_wage": "unknown",
+  "liquidated_damages": "unknown",
+  "other_compliance": [],
+  "unknowns": [
+    "Missing insurance requirements",
+    "Missing bonding requirements"
+  ]
+}

@@ -1,0 +1,10 @@
+README.md
+pyproject.toml
+src/bid_scraper/__init__.py
+src/bid_scraper/models.py
+src/bid_scraper.egg-info/PKG-INFO
+src/bid_scraper.egg-info/SOURCES.txt
+src/bid_scraper.egg-info/dependency_links.txt
+src/bid_scraper.egg-info/entry_points.txt
+src/bid_scraper.egg-info/requires.txt
+src/bid_scraper.egg-info/top_level.txt

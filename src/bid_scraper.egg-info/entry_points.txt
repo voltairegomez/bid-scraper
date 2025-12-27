@@ -1,0 +1,2 @@
+[console_scripts]
+bid-scraper = bid_scraper.cli:app
